@@ -1,0 +1,1082 @@
+.footzone {
+	float: left;
+	height: auto;
+	width: 100%;
+	background-repeat: repeat;
+	background-position: center center;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	padding-bottom: 30px;
+	background-image: url(../images/main_img.jpg);
+}
+.mif {
+	height: auto;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.nameme {
+	float: left;
+	height: 50px;
+	width: 800px;
+	font-family: "Alien League";
+	line-height: 50px;
+	color: #000;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: overline;
+	padding-left: 200px;
+}
+.tri {
+	float: left;
+	height: auto;
+	width: 100%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.oin {
+	float: left;
+	height: 250px;
+	width: 280px;
+	background-color: #FFF;
+	margin-left: 16px;
+	box-shadow:3px 2px 0px 0px rgba(0,0,0,0.1);
+}
+.fei {
+	color: #D4AB21;
+	text-decoration: overline;
+}
+.fr {
+	width: auto;
+	height: 30px;
+	float: none;
+	background-color: #F66;
+	padding-right: 20px;
+	padding-left: 20px;
+	margin-left: 200px;
+}
+.dt {
+	float: left;
+	height: auto;
+	width: 100%;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.dtd {
+	float: left;
+	height: auto;
+	width: 100%;
+	margin-top: 30px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+}
+.dtdss {
+	float: left;
+	height: auto;
+	width: 100%;
+	margin-top: 50px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999;
+}
+.more {
+	float: right;
+	height: 40px;
+	width: 150px;
+	font-family: "Alien League";
+	line-height: 40px;
+	text-align: center;
+	background-color: #D7D7D7;
+	color: #000;
+	font-size: 18px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-right: 16px;
+	box-shadow: 1px 1px 0px 0px rgba(0,0,0,0.1);
+}
+.eventpic {
+	float: left;
+	height: 180px;
+	width: 274px;
+	margin-left: 3px;
+	margin-top: 3px;
+	background-color: #FCFEFB;
+	background-image: url(../images/evpix.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.eventpicj {
+	float: left;
+	height: 180px;
+	width: 274px;
+	margin-left: 3px;
+	margin-top: 3px;
+	background-color: #CCC;
+	background-image: url(../images/d3mtechtalke.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.eventpicd {
+	float: left;
+	height: 180px;
+	width: 274px;
+	margin-left: 3px;
+	margin-top: 3px;
+	background-color: #FFF;
+	background-image: url(../images/tx.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.eventpics {
+	float: left;
+	height: 180px;
+	width: 274px;
+	margin-left: 3px;
+	margin-top: 3px;
+	background-color: #FCFCFC;
+	background-image: url(../images/wbc.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.badge {
+	float: left;
+	height: 80px;
+	width: 70px;
+	background-color: #99C525;
+	box-shadow:3px 2px 0px 0px rgba(0,0,0,0.1);
+}
+.day {
+	float: left;
+	height: 30px;
+	width: 70px;
+	line-height: 30px;
+	text-align: center;
+	font-family: Tahoma;
+	color: #FFF;
+	font-size: 14px;
+	margin-top: 2px;
+}
+.daym {
+	float: left;
+	height: 40px;
+	width: 70px;
+	line-height: 40px;
+	text-align: center;
+	font-family: "Alien League";
+	color: #FFF;
+	font-size: 36px;
+	font-weight: bold;
+}
+.dater {
+	float: right;
+	height: 30px;
+	width: 100px;
+	margin-top: 150px;
+	background-color: #FBAF99;
+	line-height: 30px;
+	background-image: url(../images/original%20png/red%20watch.html);
+	background-repeat: no-repeat;
+	background-position: 8px center;
+	padding-left: 20px;
+	text-align: center;
+	font-family: "Alien League";
+	font-size: 18px;
+	font-weight: bold;
+}
+.tittler {
+	float: left;
+	height: 64px;
+	width: 264px;
+	margin-left: 3px;
+	background-color: #F5EFE1;
+	line-height: 64px;
+	padding-left: 10px;
+	font-family: calibri;
+	font-size: 14px;
+	color: #000;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.roll {
+	float: left;
+	height: 40px;
+	width: 280px;
+	background-color: #E5E5E5;
+	margin-left: -5px;
+	margin-top: 10px;
+}
+.krixtala {
+	float: left;
+	height: 15px;
+	width: 10px;
+	background-image: url(../images/original%20png/display%20bot.html);
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin-top: 40px;
+}
+.titlenews {
+	float: left;
+	height: 40px;
+	width: 240px;
+	margin-left: 10px;
+	line-height: 40px;
+	color: #000;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 18px;
+}
+.tik {
+	float: left;
+	height: 40px;
+	width: 250px;
+	margin-left: 15px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	line-height: 40px;
+	font-family: "Alien League";
+	font-size: 24px;
+	color: #309261;
+}
+.briefners {
+	float: left;
+	height: 120px;
+	width: 250px;
+	margin-left: 15px;
+	margin-top: 10px;
+	font-family:Verdana, Geneva, sans-serif;
+	color: #666;
+	font-size: 14px;
+}
+.named {
+	float: left;
+	height: 50px;
+	width: 100%;
+	font-family:Verdana, Geneva, sans-serif;
+	line-height: 50px;
+	color: #FFF;
+	text-align: center;
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+.blades {
+	height: 280px;
+}
+.port {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/md.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.portl {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/peter.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.portlxxx {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/olajide.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.portlxx {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/ndubusi.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.portlL {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/obata.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.portlk {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/ayuba.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.portla {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/roke.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.portw {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/george.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.portx {
+	float: left;
+	height: 200px;
+	width: 100%;
+	background-image: url(../images/chinelo.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.namedtag {
+	float: left;
+	height: auto;
+	width: 100%;
+	font-family:Verdana, Geneva, sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #FFF;
+	font-size: 14px;
+	margin-top: 5px;
+	text-align: center;
+}
+.rip {
+	float: left;
+	height: auto;
+	width: 280px;
+	margin-top: 10px;
+	font-family:Verdana, Geneva, sans-serif;
+	color: #F5F5F5;
+	font-size: 14px;
+}
+.roundoff {
+	float: left;
+	height: auto;
+	width: 100%;
+	background-color: #F5EFE1;
+}
+.roundoffh {
+	float: left;
+	height: auto;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+.rmid {
+	height: 490px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.rmidh {
+	height: 600px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	margin-bottom: 70px;
+	padding-top: 20px;
+}
+.rmidhc {
+	height: 800px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	margin-bottom: 70px;
+	padding-top: 20px;
+}
+.end {
+	float: left;
+	height: auto;
+	width: 100%;
+	background-color: #302F2F;
+}
+.endmido {
+	height: 400px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.ringh {
+	float: left;
+	height: auto;
+	width: 100%;
+	margin-top: 50px;
+}
+.ringhgm {
+	float: left;
+	height: 350px;
+	width: 100%;
+	margin-top: 50px;
+	background-color: #EFEFEF;
+	background-image: url(../images/d3mmap.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.androno {
+	float: left;
+	height: auto;
+	width: 400px;
+}
+.andronop {
+	float: right;
+	height: auto;
+	width: 600px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #666;
+	text-align: justify;
+}
+.andronoh {
+	float: left;
+	height: 350px;
+	width: 500px;
+	background-image: url(../images/hist.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.rot {
+	float: left;
+	height: 250px;
+	width: 250px;
+	background-color: #FFF;
+	border-radius: 150px 150px;
+	margin-left: 70px;
+	background-image: url(../images/original%20png/windowslogo.fw.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+	box-shadow: 0px 1px 2px 2px rgba(0,0,0,0.1);
+}
+.roti {
+	float: left;
+	height: 250px;
+	width: 250px;
+	background-color: #FFF;
+	border-radius: 150px 150px;
+	margin-left: 70px;
+	background-image: url(../images/original%20png/Learn-Web-Design.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+	box-shadow: 0px 1px 2px 2px rgba(0,0,0,0.1);
+}
+.rotw {
+	float: left;
+	height: 250px;
+	width: 250px;
+	background-color: #FFF;
+	border-radius: 150px 150px;
+	margin-left: 70px;
+	background-image: url(../images/original%20png/ic_launcher.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+	box-shadow: 0px 1px 2px 2px rgba(0,0,0,0.1);
+}
+.brce {
+	float: left;
+	height: 50px;
+	width: 300px;
+	background-color: #E87722;
+	margin-top: 150px;
+	margin-left: -25px;
+	line-height: 50px;
+	text-align: center;
+	font-family: "Alien League";
+	font-size: 24px;
+	color: #FFF;
+}
+.brceaa {
+	float: left;
+	height: 50px;
+	width: 300px;
+	background-color: #00843D;
+	margin-top: 150px;
+	margin-left: -25px;
+	line-height: 50px;
+	text-align: center;
+	font-family: "Alien League";
+	font-size: 24px;
+	color: #FFF;
+}
+.brcea {
+	float: left;
+	height: 50px;
+	width: 300px;
+	background-color: #84BD00;
+	margin-top: 150px;
+	margin-left: -25px;
+	line-height: 50px;
+	text-align: center;
+	font-family: "Alien League";
+	font-size: 24px;
+	color: #FFF;
+}
+.rio {
+	float: left;
+	height: auto;
+	width: 100%;
+	background-image: url(../images/original%20png/Activities%20at%20the%20Android%20Lab.html);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+.quik {
+	float: left;
+	height: auto;
+	width: 450px;
+}
+.quika {
+	float: left;
+	height: 340px;
+	width: 300px;
+	background-color: #FFF;
+	background-image: url(../images/original%20png/Digital%20Logo%20Jpeg.html);
+	background-repeat: no-repeat;
+	background-position: center 205px;
+	margin-top: -5px;
+}
+.rapq {
+	float: left;
+	height: auto;
+	width: 100%;
+}
+.fta {
+	float: left;
+	height: auto;
+	width: 100%;
+	background-color: #FFF;
+}
+.midfta {
+	height: 50px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+.copy {
+	float: left;
+	height: 50px;
+	width: 500px;
+	line-height: 50px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #333;
+}
+.sitedesign {
+	float: right;
+	height: 50px;
+	width: 300px;
+	text-align: right;
+	line-height: 50px;
+	color: #999;
+	font-family: "Alien League";
+	font-size: 14px;
+	font-weight: bold;
+}
+.spons {
+	float: left;
+	height: 40px;
+	width: 300px;
+	font-family: "Alien League";
+	line-height: 40px;
+	color: #000;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.sponst {
+	float: left;
+	height: 40px;
+	width: 300px;
+	font-family: Tahoma, Geneva, sans-serif;
+	line-height: 40px;
+	color: #302665;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold;
+}
+.adrres {
+	float: left;
+	height: auto;
+	width: 300px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #666;
+	text-align: center;
+	margin-top: 20px;
+}
+.ed {
+	float: left;
+	height: 15px;
+	width: 310px;
+	margin-left: -5px;
+}
+.fri {
+	float: left;
+	height: 15px;
+	width: 15px;
+	background-image: url(../images/original%20png/van.fw.html);
+	background-repeat: no-repeat;
+	background-position: left top;
+}
+.frib {
+	float: right;
+	height: 15px;
+	width: 15px;
+	background-image: url(../images/original%20png/vanb.fw.html);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.linked {
+	float: left;
+	height: 40px;
+	width: 250px;
+	font-family: "Alien League";
+	font-size: 24px;
+	line-height: 40px;
+	font-weight: bold;
+	color: #FFF;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.linkedf {
+	float: right;
+	height: 40px;
+	width: 250px;
+	font-family: "Alien League";
+	font-size: 24px;
+	line-height: 40px;
+	font-weight: bold;
+	color: #FFF;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+}
+.housed {
+	float: left;
+	height: auto;
+	width: 250px;
+}
+.housedo {
+	float: right;
+	height: auto;
+	width: 250px;
+}
+.hey {
+	width: 250px;
+	font-family:Verdana, Geneva, sans-serif;
+	color: #CCC;
+	float: left;
+	height: auto;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.bash {
+	float: left;
+	height: auto;
+	width: 250px;
+}
+.fbx {
+	float: left;
+	height: 40px;
+	width: 40px;
+	background-image: url(../images/original%20png/gp.fw.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.fbxu {
+	float: left;
+	height: 40px;
+	width: 40px;
+	background-image: url(../images/original%20png/ut.fw.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.fbxt {
+	float: left;
+	height: 40px;
+	width: 40px;
+	background-image: url(../images/original%20png/twi.fw.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.fbxg {
+	float: left;
+	height: 40px;
+	width: 40px;
+	background-image: url(../images/original%20png/fb.fw.html);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.hit {
+	float: left;
+	height: 40px;
+	width: 150px;
+	line-height: 40px;
+	font-family:Verdana, Geneva, sans-serif;
+	color: #CCC;
+}
+.webe {
+	color: #C0F356;
+	margin-left: 30px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	text-decoration: underline;
+	font-weight: normal;
+}
+.droppable {
+	float: left;
+	height: auto;
+	width: 200px;
+	margin-top: 2px;
+	display: none;
+	background-color: #F8F8F8;
+	z-index: 1;
+	box-shadow:0px 1px 2px 2px rgba(0,0,0,0.1);
+}
+.rolls {
+	float: left;
+	height: 40px;
+	width: 200px;
+	font-family:Verdana, Geneva, sans-serif;
+	text-transform: none;
+	text-align: justify;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	font-size: 14px;
+	color: #666;
+	line-height: 40px;
+}
+.linko {
+	color: #999;
+	text-decoration: none;
+	display: block;
+	padding-left: 10px;
+}
+.linko:hover {
+	color: #333;
+	text-decoration: none;
+	display: block;
+	background-color: #E2E2E2;
+}
+.jl {
+	color: #FFF;
+	text-decoration: none;
+	display: block;
+}
+.jl:hover {
+	color: #FFF;
+	text-decoration: none;
+	display: block;
+}
+.joincarry {
+	float: left;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 1;
+	background-image: url(../images/blue_up.fw.png);
+	display: none;
+}
+.joinmid {
+	height: 450px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFF;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+.xc {
+	float: left;
+	height: auto;
+	width: 100%;
+	margin-top: -13px;
+}
+.xclose {
+	float: right;
+	height: 25px;
+	width: 25px;
+	line-height: 25px;
+	text-align: center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #000;
+	background-color: #FF9D9D;
+	margin-right: -13px;
+	border-radius: 100px 100px;
+	box-shadow: 0px 1px 2px 2px rgba(0,0,0,0.1);
+	cursor: pointer;
+}
+.xclose:hover {
+	float: right;
+	height: 25px;
+	width: 25px;
+	line-height: 25px;
+	text-align: center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #000;
+	background-color: #FFC6C6;
+	margin-right: -13px;
+	border-radius: 100px 100px;
+	box-shadow: 0px 1px 2px 2px rgba(0,0,0,0.1);
+	cursor: pointer;
+}
+.frm {
+	float: left;
+	height: auto;
+	width: 100%;
+}
+.leftc {
+	float: left;
+	height: auto;
+	width: 530px;
+	margin-left: 20px;
+	margin-top: 10px;
+	background-image: url(../images/staff.html);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.abt {
+	float: right;
+	height: 350px;
+	width: 550px;
+	margin-top: 10px;
+	margin-right: 20px;
+	background-color: #F7F7F7;
+	padding-top: 20px;
+}
+.ca {
+	float: left;
+	height: 50px;
+	width: 500px;
+	font-family: Tahoma;
+	font-size: 26px;
+	line-height: 50px;
+	font-weight: lighter;
+	color: #333;
+	padding-left: 20px;
+	margin-bottom: 10px;
+}
+.caa {
+	float: left;
+	height: 50px;
+	width: 500px;
+	font-family: "Alien League";
+	font-size: 26px;
+	line-height: 50px;
+	font-weight: bold;
+	color: #333;
+	margin-bottom: 30px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #DBDBDB;
+	margin-left: 25px;
+	margin-top: 5px;
+}
+.frms {
+	float: left;
+	height: auto;
+	width: 500px;
+	margin-bottom: 10px;
+	padding-left: 20px;
+}
+.fmc {
+	float: left;
+	height: 35px;
+	width: 390px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #333;
+	padding-left: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-left-color: #FFF;
+}
+.fmcs {
+	float: left;
+	height: 40px;
+	width: 150px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #5AD0B8;
+	font-weight: bold;
+	margin-top: 20px;
+	cursor: pointer;
+	padding: 0px;
+	border: 1px solid #FFF;
+}
+.fmcs:hover {
+	float: left;
+	height: 40px;
+	width: 150px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #44CAAF;
+	font-weight: bold;
+	margin-top: 20px;
+	cursor: pointer;
+	padding: 0px;
+	border: 1px solid #FFF;
+}
+.fmc:hover {
+	float: left;
+	height: 35px;
+	width: 390px;
+	border: 1px solid #0C3;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #333;
+	padding-left: 10px;
+}
+.d {
+	color: #FFC40F;
+}
+.t {
+	color: #F30;
+}
+.m {
+	color: #090;
+}
+.smtxt {
+	height: auto;
+	width: 500px;
+	float: left;
+	margin-left: 25px;
+	color: #666;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+.lk {
+	color: #CCC;
+	text-decoration: none;
+}
+.lk:hover {
+	color: #CCC;
+	text-decoration: underline;
+}
+.lkx {
+	text-decoration: none;
+	color: #000;
+	display: block;
+	-moz-transition:all 1s ease;
+	-ms--transition:all 1s ease;
+	-o--transition:all 1s ease;
+	-webkit--transition:all 1s ease;
+}
+.lkx:hover {
+	text-decoration: none;
+	color: #000;
+	display: block;
+	background-color: #F4F4F4;
+}
+.on {
+	color: #FFF;
+	text-decoration: none;
+	display: block;
+	font-size: 24px;
+	font-family: "Alien League";
+	-moz-transition:all 1s ease;
+	-ms--transition:all 1s ease;
+	-o--transition:all 1s ease;
+	-webkit--transition:all 1s ease;
+}
+.on:hover {
+	color: #FFC;
+	text-decoration: none;
+	display: block;
+	font-family: "Alien League";
+	font-size: 24px;
+}
+.rm {
+	color: #E63420;
+	font-weight: bold;
+}
+.we {
+	color: #E63420;
+	text-decoration: none;
+}
+.we:hover {
+	color: #E63420;
+	text-decoration: underline;
+}
+.lkd {
+	color: #FFF;
+	text-decoration: none;
+}
+.lkd:hover {
+	color: #FFF;
+	text-decoration: underline;
+}
+.fmv {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	display: block;
+	padding-bottom: 30px;
+	color: #000;
+	font-weight: bold;
+}
+.fmvm {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	display: block;
+	padding-bottom: 30px;
+	color: #000;
+	font-weight: bold;
+	padding-top: 30px;
+}
+.how {
+	float: left;
+	height: auto;
+	width: 500px;
+	padding-top: 10px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #333;
+	font-weight: bold;
+}
+.fib {
+	float: left;
+	height: auto;
+	width: 500px;
+}
+.pack {
+	float: left;
+	height: auto;
+	width: 100%;
+	margin-top: 50px;
+	text-align: center;
+	font-family:Verdana, Geneva, sans-serif;
+	color: #333;
+	font-size: 18px;
+}
